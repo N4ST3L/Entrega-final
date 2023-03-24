@@ -448,6 +448,9 @@ select{
     form{
         width: 100%;
     }
+    .text2{
+        display: none;
+    }
 }
 
 .mapa{
@@ -455,9 +458,9 @@ select{
     text-align: center;
 }
 
-@media (max-width:100px){
+/* @media (max-width:100px){
     .imgco{
         width: 5vw;
         height: 5vw;
     }
-}
+} */
